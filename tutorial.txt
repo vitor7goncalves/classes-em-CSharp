@@ -1,0 +1,2 @@
+dotnet new console (cria um projeto),
+dotnet run (compila e executa). 
